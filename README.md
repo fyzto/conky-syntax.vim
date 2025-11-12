@@ -13,3 +13,5 @@ Use a Vim plugin manager as:
 * [unbundle.vim](https://github.com/sunaku/vim-unbundle)
 * [Vundle](https://github.com/gmarik/vundle)
 * [neobundle](https://github.com/Shougo/neobundle.vim)
+
+or copy *.vim files into $HOME/.config/<nvim|vim>/syntax folder 
